@@ -1,0 +1,102 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+   #features{
+     text-align: center;
+   }
+   #features{
+     margin:0 0;
+     margin-bottom: 20px;
+   }
+   #featurs img{
+     padding-bottom: 20px;
+   }
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+   body{
+ font-family: 'Josefin Sans', sans-serif;
+
+   }
+   .well .page-header{
+     margin-top: 0;
+   }
+   .well .page-header h1{
+     margin-top: 0;
+   }
+.well{
+  background: #BBDEFB;
+}
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   #searchInput {
+    width: 200px;
+   }
+   .navbar-brand{
+    padding: 0px 0px;
+
+   }
+.navbar{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+footer{
+  background: #222;
+  color:#eee;
+}
+.id{
+  list-style: none;
+}
+
+
+#featuresHeading h2{
+  font-size: 25px;
+  margin-left: 25px;
+  padding-top: 60px;
+}
+#featuresHeading p{
+  margin-left: 40px;
+}
+#features p{
+  padding-top: 20px;
+}
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+
+}
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}

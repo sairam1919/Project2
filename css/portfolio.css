@@ -1,0 +1,126 @@
+body{
+    background: ;
+    font-family: open sans light;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+.major{
+    background: white;
+}
+.main{
+    border-bottom: 1px solid black;
+}
+.main img{
+      height:80px;
+}
+.main nav a{
+    display:inline;
+    text-decoration: none;
+    float:right;
+    padding:8px;
+    font-size: 20px;
+    padding-top: 40px;
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+}
+ nav a:hover{
+    color: blue;
+}
+.port {
+    padding-top: 20px;
+    height: 100px;
+    background:	#DBE9F4;
+    font-family: 'Open Sans', sans-serif;
+}
+.port h3{
+      font-size: 30px;
+      font-family:'Open Sans', sans-serif;;
+      font-style: normal;
+      text-align: center;
+      font-family: 'Open Sans', sans-serif;
+}
+.port p{
+      font-style: normal;
+      text-align: center;
+      margin-left: 200px;
+}
+.port a{
+      float: right;
+}
+.service p{
+      color:black;
+}
+.service h2{
+      padding-top: 10px;
+      font-size: 20px;
+      color:black;
+}
+
+.service img{
+      padding: 2px;
+      width: 300px;
+      height: 250px;
+      padding-top: 20px;
+      border: 0px;
+      padding-bottom: 10px;
+}
+
+.service2 img{
+      padding: 2px;
+      width: 300px;
+      height: 250px;
+      padding-top: 40px;
+      border: 0px;
+}
+.service2 h2{
+      padding-top: 10px;
+      font-size: 20px;
+      color:black;
+      padding-bottom: 40px;
+}
+
+.footer{
+    background:#B2BEB5;
+}
+.footer h1{
+      font-size: 20px;
+      padding-top: 10px;
+}
+.footer form{
+      padding-top: 20px;
+}
+.footer a{
+      padding-top: 10px;
+      display: list-item;
+      list-style: none;
+      text-decoration: none;
+      font-size: 15px;
+      padding-left: 80px;
+}
+ a:hover{
+    color:red;
+}
+
+.footer img{
+      display: inline;
+      height: 30px;
+      width:40px;
+      padding-top: 100px;
+      padding: 4px;
+      margin-left: 20px;
+}
+.footer h4{
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+.footer h1,p{
+    color:black;
+}
+.footer p{
+    padding-top:10px;
+}
+.major h4{
+    text-align: center;
+    background:#B2BEB5;
+}
